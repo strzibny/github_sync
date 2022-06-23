@@ -1,5 +1,5 @@
 phrase:
-  phrase_project_id: 085a75aa26b3967105447a75aa616f28
+  project_id: 085a75aa26b3967105447a75aa616f28
   push:
     sources:
     - file: ./Localizable.stringsdict
