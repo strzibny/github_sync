@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+  <dict>
+    <key>%d episodes</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@num_episodes@</string>
+      <key>num_episodes</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d Episode</string>
+        <key>other</key>
+        <string>%d Episoden</string>
+        <key>zero</key>
+        <string>Keine Episoden</string>
+      </dict>
+    </dict>
+    <key>%d filters</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@num_filters@</string>
+      <key>num_filters</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d Filter</string>
+        <key>other</key>
+        <string>%d Filter</string>
+        <key>zero</key>
+        <string>Filtern</string>
+      </dict>
+    </dict>
+    <key>%d number of episodes found</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@num_episodes@ gefunden</string>
+      <key>num_episodes</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d Episode</string>
+        <key>other</key>
+        <string>%d Episoden</string>
+        <key>zero</key>
+        <string>Keine Episoden</string>
+      </dict>
+    </dict>
+    <key>%d number of podcasts found</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@num_podcasts@ gefunden</string>
+      <key>num_podcasts</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d Podcast</string>
+        <key>other</key>
+        <string>%d Podcasts</string>
+        <key>zero</key>
+        <string>Keine Podcasts</string>
+      </dict>
+    </dict>
+    <key>%d number of songs found</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@num_songs@ gefunden</string>
+      <key>num_songs</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d Titel</string>
+        <key>other</key>
+        <string>%d Titel</string>
+        <key>zero</key>
+        <string>Keine Titel</string>
+      </dict>
+    </dict>
+    <key>%d number of stations found</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@num_stations@ gefunden</string>
+      <key>num_stations</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d Sender</string>
+        <key>other</key>
+        <string>%d Sender</string>
+        <key>zero</key>
+        <string>Keine Sender</string>
+      </dict>
+    </dict>
+    <key>Only %@ for the first %lu months</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>Nur %@ %#@num_months@</string>
+      <key>num_months</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>@</string>
+        <key>one</key>
+        <string>im 1. Monat</string>
+        <key>other</key>
+        <string>für die ersten %d Monate</string>
+      </dict>
+    </dict>
+    <key>Only %@ per month for the first %lu months</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>Nur %@ %#@num_months@</string>
+      <key>num_months</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>@</string>
+        <key>one</key>
+        <string>im 1. Monat</string>
+        <key>other</key>
+        <string>pro Monat für die ersten %d Monate</string>
+      </dict>
+    </dict>
+    <key>show all %d found items</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@num_found_items@</string>
+      <key>num_found_items</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d anzeigen</string>
+        <key>other</key>
+        <string>Alle %d anzeigen</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>
