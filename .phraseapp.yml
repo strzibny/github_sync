@@ -3,12 +3,12 @@ phrase:
   push:
     sources:
     - file: ./Localizable.stringsdict
-    params:
-      file_format: stringsdict
-      locale_id: en
+      params:
+        file_format: stringsdict
+        locale_id: en
   pull:
     targets:
     - file: ./Localizable.stringsdict
-    params:
-      file_format: stringsdict
-      locale_id: en
+      params:
+        file_format: stringsdict
+        locale_id: en
