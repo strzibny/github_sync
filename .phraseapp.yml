@@ -1,5 +1,6 @@
 phrase:
   project_id: 085a75aa26b3967105447a75aa616f28
+  file_format: stringsdict
   push:
     sources:
     - file: ./Localizable.stringsdict
