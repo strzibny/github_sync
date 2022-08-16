@@ -18,62 +18,7 @@
         <key>zero</key>
         <string>Keine Episoden</string>
       </dict>
-    </dict>  
-   <key>%d new string</key>
-    <dict>
-      <key>NSStringLocalizedFormatKey</key>
-      <string>%#@num_episodes@</string>
-      <key>num_episodes</key>
-      <dict>
-        <key>NSStringFormatSpecTypeKey</key>
-        <string>NSStringPluralRuleType</string>
-        <key>NSStringFormatValueTypeKey</key>
-        <string>d</string>
-        <key>one</key>
-        <string>%d Episode</string>
-        <key>other</key>
-        <string>%d Episoden</string>
-        <key>zero</key>
-        <string>Keine Episoden</string>
-      </dict>
-   </dict> 
-   <key>%d episodes</key>
-    <dict>
-      <key>NSStringLocalizedFormatKey</key>
-      <string>%#@num_episodes@</string>
-      <key>num_episodes</key>
-      <dict>
-        <key>NSStringFormatSpecTypeKey</key>
-        <string>NSStringPluralRuleType</string>
-        <key>NSStringFormatValueTypeKey</key>
-        <string>d</string>
-        <key>one</key>
-        <string>%d Episode</string>
-        <key>other</key>
-        <string>%d Episoden</string>
-        <key>zero</key>
-        <string>Keine Episoden</string>
-      </dict>
     </dict>
-    <key>%d episodes</key>
-    <dict>
-      <key>NSStringLocalizedFormatKey</key>
-      <string>%#@num_episodes@</string>
-      <key>num_episodes</key>
-      <dict>
-        <key>NSStringFormatSpecTypeKey</key>
-        <string>NSStringPluralRuleType</string>
-        <key>NSStringFormatValueTypeKey</key>
-        <string>d</string>
-        <key>one</key>
-        <string>%d Episode</string>
-        <key>other</key>
-        <string>%d Episoden</string>
-        <key>zero</key>
-        <string>Keine Episoden</string>
-      </dict>
-    </dict>
- 
     <key>%d filters</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
@@ -90,6 +35,24 @@
         <string>%d Filter</string>
         <key>zero</key>
         <string>Filtern</string>
+      </dict>
+    </dict>
+    <key>%d new string</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@num_episodes@</string>
+      <key>num_episodes</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>d</string>
+        <key>one</key>
+        <string>%d Episode</string>
+        <key>other</key>
+        <string>%d Episoden</string>
+        <key>zero</key>
+        <string>Keine Episoden</string>
       </dict>
     </dict>
     <key>%d number of episodes found</key>
