@@ -6,10 +6,10 @@ phrase:
     - file: ./Localizable.stringsdict
       params:
         file_format: stringsdict
-        locale_id: en
+        locale_id: a283846c3b24fbe81eb1df807263d039
   pull:
     targets:
     - file: ./Localizable.stringsdict
       params:
         file_format: stringsdict
-        locale_id: en
+        locale_id: a283846c3b24fbe81eb1df807263d039
